@@ -1,1 +1,2 @@
 # hanoi_tower
+#In this program, the user is prompted to enter the number of disks, and the hanoi() method is called with the number of disks, and the names of #the three rods (A, B, and C). The hanoi() method uses recursion to solve the problem. In each call, it first moves the top n-1 disks from the #from rod to the aux rod, then it moves the bottom disk from the from rod to the to rod, and finally it moves the n-1 disks from the aux rod to #the to rod. The process is repeated until all the disks are on the to rod, and the solution is printed out step by step.
